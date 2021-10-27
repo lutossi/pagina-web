@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+
+button {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #0a58ca;
+}
+
+body.cuerpo {
+    background-color: brown;
+}
